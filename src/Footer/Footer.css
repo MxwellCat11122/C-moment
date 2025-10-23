@@ -1,0 +1,14 @@
+footer {
+    border-radius: 30px;
+    border-color:whitesmoke ;
+    border: 2px solid whitesmoke;
+    box-shadow: 0 -6px 6px snow;
+    margin-top: 30px;
+    transition:ease-in-out 0.3s ;
+}
+footer:hover {
+    border-color:rgb(255, 255, 167) ;
+    border: 2px solid rgb(255, 255, 167) ;
+    box-shadow: 0 -6px 6px rgb(255, 255, 167) ;
+    color: rgb(255, 255, 167);
+}

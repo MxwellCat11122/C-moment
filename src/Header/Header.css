@@ -1,0 +1,13 @@
+header {
+    border-radius: 30px;
+    border-color:whitesmoke ;
+    border: 2px solid whitesmoke;
+    box-shadow: 0 10px 10px snow;
+    transition:ease-in-out 0.3s ;
+}
+header:hover {
+    border-color:gold ;
+    border: 2px solid gold;
+    box-shadow: 0 10px 10px gold;
+    color: gold;
+}

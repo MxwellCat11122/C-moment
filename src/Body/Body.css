@@ -1,0 +1,107 @@
+.divj {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+    padding: 50px;
+}
+
+.divj img {
+    width: 20%;
+}
+
+.divj p {
+    width: 70%;
+    color: white;
+    font-size: 20px;
+}
+
+.react {
+    width: 22%;
+    margin-left: 20px;
+}
+body {
+    background-color: black;
+}
+.divr {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+    padding: 50px;
+}
+.divr img {
+    width: 20%;
+}
+.divr p {
+    width: 70%;
+    color: white;
+    font-size: 20px;
+}
+h1 {
+    transition: ease-in-out 0.3s;
+}
+.jsh1:hover {
+    color:gold;
+    transform: scale(110%);
+}
+.reacth1:hover {
+    color: dodgerblue ;
+    transform: scale(110%);
+}
+.ch1:hover {
+    color: mediumpurple;
+    transform: scale(110%);
+}
+.c {
+        width: 22%;
+    margin-left: 20px;
+}
+.divc p {
+    width: 70%;
+    color: white;
+    font-size: 20px;
+}
+.divc img {
+        width: 20%;
+}
+.divc {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+    padding: 50px;
+}
+.divcplusplus p {
+    width: 70%;
+    color: white;
+    font-size: 20px;
+}
+.divcplusplus img {
+        width: 20%;
+}
+.divcplusplus {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+    padding: 50px;
+}
+.Cplush1:hover {
+    color: lightskyblue;
+    transform: scale(110%);
+}
+.divpython p {
+    width: 70%;
+    color: white;
+    font-size: 20px;
+}
+.divpython img {
+        width: 20%;
+}
+.divpython {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+    padding: 50px;
+}
+.Pythonh1:hover {
+    color: rgb(255, 255, 167);
+    transform: scale(110%);
+}
